@@ -1,0 +1,16 @@
+carat: peso do diamante em quilates (0,2 a 0,32)
+cut: qualidade do corte do diamante (Fair, Good, Very Good, Premium, Ideal)
+color: cor do diamante (de D a J, D sendo o mais branco e J o mais amarelado)
+clarity: clareza do diamante (IF, VVS1, VVS2, VS1, VS2, SI1, SI2, I1)
+depth: profundidade total percentual do diamante (43 a 65)
+table: largura do topo do diamante em relação ao ponto mais largo (43 a 65)
+price: preço do diamante em dólares americanos (326 a 357)
+x: comprimento em milímetros (3,79 a 4,44)
+y: largura em milímetros (3,75 a 4,47)
+z: profundidade em milímetros (2,27 a 2,75)
+Algumas coisas que você pode querer fazer com estes dados incluem:
+
+Visualizar distribuições de cada atributo (por exemplo, histogramas)
+Visualizar correlações entre atributos (por exemplo, plotar o preço vs carat ou a profundidade vs a tabela)
+Criar modelos preditivos para prever o preço do diamante com base em outros atributos
+Clusterizar diamantes em grupos com base em seus atributos.
